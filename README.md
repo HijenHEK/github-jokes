@@ -2,7 +2,7 @@
 
 This repository is public for a reason , try pull requests sharing jokes 😂
 
-link to the website : [github-jokes](hijenhek.github.io/github-jokes)
+link to the website : [github-jokes](https://hijenhek.github.io/github-jokes)
 
 ### if you see this repo, create a pull request share a joke 
 
